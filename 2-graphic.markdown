@@ -6,7 +6,7 @@ permalink: /graphic/
 
 aaaa
 
-<img src="\assets\images\graphic\graphic-1.jpg" width="450"/>
+<img src="asmaart\assets\images\graphic\graphic-1.jpg" width="450"/>
 bbbb
 
 <img src="\assets\images\graphic\graphic-2.jpg" width="450"/>
