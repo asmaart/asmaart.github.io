@@ -3,16 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
+<img src="{{ site.baseurl }}\assets\images\asmaa.jpg" width="200"/>
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Asmaa Alomari, a Syrian artist, graduated from the Faculty of Arts, Damascus University in 2002, specialized in printmaking and is a member of the Plastic Artists Union. She works in kids' magazines as an illustrator and has long experience in teaching drawing and handicrafts for children.
 
 
-[jekyll-organization]: https://github.com/jekyll
+<img src="{{ site.baseurl }}\assets\images\asmaa-profile.jpg" width="800"/>
+
+
