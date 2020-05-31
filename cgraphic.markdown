@@ -5,9 +5,8 @@ permalink: /graphic/
 ---
 aaaa
 
-<img src="{{ site.baseurl }}\assets\images\graphic\graphic-1.jpg" width="300"/>
-<img src="{{ site.baseurl }}\assets\images\graphic\graphic-3.jpg" width="300"/>
-<img src="{{ site.baseurl }}\assets\images\graphic\graphic-2.jpg" width="300"/>
+<img src="{{ site.baseurl }}\assets\images\graphic\graphic-1.jpg" width="380"/>
+<img src="{{ site.baseurl }}\assets\images\graphic\graphic-2.jpg" width="350"/>
 
 dddd
 
