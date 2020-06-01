@@ -5,5 +5,8 @@
 layout: home
 ---
 
+The Website is Under Construction !!
+
+
 <img src="{{ site.baseurl }}\assets\images\kids-magazine\kid-magazine-2.jpg" width="370"/>
-<img src="{{ site.baseurl }}\assets\images\kids-magazine\kid-magazine-1.jpg" width="360"/>
+<img src="{{ site.baseurl }}\assets\images\graphic\graphic-4.jpg" width="360"/>
