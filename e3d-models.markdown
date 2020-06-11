@@ -3,41 +3,38 @@ layout: page
 title: 3D Models
 permalink: /3d-models/
 ---
-aaaa
 
-<img src="{{ site.baseurl }}\assets\images\3d-models\solar-system-1.jpg" width="400"/>
-bbbb
+A school 3D model showing the solar system.
 
-<img src="{{ site.baseurl }}\assets\images\3d-models\solar-system-2.jpg" width="400"/>
-cccc
+(polystyrene and other materials)
 
-<img src="{{ site.baseurl }}\assets\images\3d-models\solar-system-3.jpg" width="400"/>
-dddd
+[facebook@edu.drawing][edu-drawing-post1].
 
-<img src="{{ site.baseurl }}\assets\images\3d-models\solar-system-4.jpg" width="400"/>
-eeee
+<img src="{{ site.baseurl }}\assets\images\3d-models\solar-system-5.jpg" width="600"/>
 
-<img src="{{ site.baseurl }}\assets\images\3d-models\solar-system-5.jpg" width="400"/>
-ffff
 
-<img src="{{ site.baseurl }}\assets\images\3d-models\water-life-cycle-0.jpg" width="400"/>
-gggg
+<img src="{{ site.baseurl }}\assets\images\3d-models\solar-system-1.jpg" width="600"/>
 
-<img src="{{ site.baseurl }}\assets\images\3d-models\water-life-cycle-1.jpg" width="400"/>
-hhhh
+***
 
-<img src="{{ site.baseurl }}\assets\images\3d-models\water-life-cycle-2.jpg" width="400"/>
-kkkk
+A school 3D Model demonstrating the water cycle.
 
-<img src="{{ site.baseurl }}\assets\images\3d-models\water-life-cycle-3.jpg" width="400"/>
-llll
+(polystyrene and other materials)
 
-<img src="{{ site.baseurl }}\assets\images\3d-models\water-life-cycle-4.jpg" width="400"/>
-mmmm
+[facebook@edu.drawing][edu-drawing-post2].
 
-<img src="{{ site.baseurl }}\assets\images\3d-models\water-life-cycle-5.jpg" width="400"/>
-nnnn
+<img src="{{ site.baseurl }}\assets\images\3d-models\water-life-cycle-1.jpg" width="600"/>
 
-<img src="{{ site.baseurl }}\assets\images\3d-models\water-life-cycle-6.jpg" width="400"/>
-vvvv
 
+<img src="{{ site.baseurl }}\assets\images\3d-models\water-life-cycle-3.jpg" width="600"/>
+
+
+<img src="{{ site.baseurl }}\assets\images\3d-models\water-life-cycle-4.jpg" width="600"/>
+
+***
+
+
+
+
+[edu-drawing-post1]: https://www.facebook.com/edu.drawing/posts/136644041142430
+[edu-drawing-post2]: https://www.facebook.com/edu.drawing/posts/149506603189507

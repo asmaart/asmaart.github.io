@@ -5,7 +5,10 @@
 layout: home
 ---
 
-The Website is Under Construction !!
+
+<img src="{{ site.baseurl }}\assets\images\asmaa.jpg" width="200"/>
+
+Asmaa Alomari, a Syrian artist, graduated from the Faculty of Arts, Damascus University in 2002, specialized in graphic design and is a member of the Syrian Plastic Artist's Union.
 
 
 <img src="{{ site.baseurl }}\assets\images\kids-magazine\kid-magazine-2.jpg" width="370"/>
