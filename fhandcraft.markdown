@@ -31,7 +31,7 @@ A wall artwork on the occasion of the new year.
 ***
 Some wall artworks.
 
-<img src="{{ site.baseurl }}\assets\images\handcraft\handcraft-11.png" width="450"/>
+<img src="{{ site.baseurl }}\assets\images\handcraft\handcraft-11.jpg" width="450"/>
 
 <img src="{{ site.baseurl }}\assets\images\handcraft\handcraft-9.jpg" width="450"/>
 
