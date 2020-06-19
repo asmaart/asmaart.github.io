@@ -46,7 +46,7 @@ permalink: /drawing/
 <img src="{{ site.baseurl }}\assets\images\drawing\drawing-4.jpg" width="400"/>
 
 ***
-*A School Drawing (70X50 cm) showing the human eye.*
+*A School Drawing (70X50 cm) showing the human tongue.*
 
 *(oil pastel colors)*
 
